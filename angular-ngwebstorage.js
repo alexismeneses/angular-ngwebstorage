@@ -22,9 +22,9 @@
 (function() {
     "use strict";
 
-    angular.module("webstorage", []);
+    angular.module("ngWebstorage", [])
 
-    angular.module("webstorage").factory(
+    .factory(
         "$webstorage",
         function ()
         {
