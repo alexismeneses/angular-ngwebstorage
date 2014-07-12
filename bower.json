@@ -1,0 +1,24 @@
+{
+    "name": "angular-ngwebstorage",
+    "main": "angular-ngwebstorage.js",
+    "version": "0.0.1",
+    "description": "An AngularJS module providing 3-way databinding with webstorages (localStorage or sessionStorage)",
+    "authors":
+    [
+        "Alexis Meneses"
+    ],
+    "license": "MIT",
+    "ignore":
+    [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "devDependencies":
+    {
+        "grunt": "~0.4.1",
+        "grunt-contrib-uglify": "~0.2.2"
+    }
+}
